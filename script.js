@@ -148,7 +148,7 @@ let firstLive = document.querySelector('.live-site p:nth-child(1)');
 let firstGithub = document.querySelector('.live-site p:nth-child(2)');
 
 firstLive.addEventListener('click', function(){
-    window.open('https://api-food-app-two.vercel.app/')
+    window.open('https://shkkhwaja.github.io/Api-Food-App/')
 })
 
 firstGithub.addEventListener('click', function(){
